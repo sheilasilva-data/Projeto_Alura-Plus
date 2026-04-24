@@ -15,7 +15,7 @@ O Alura Plus é uma landing page desenvolvida para apresentar o serviço de assi
   
 ## Estrutura do projeto
 
-📂 alura-plus/  
+📂 Projeto_Alura-Plus/  
 ├── index.html    
 ├── styles.css      
 ├── img/  
@@ -31,10 +31,10 @@ O Alura Plus é uma landing page desenvolvida para apresentar o serviço de assi
 └── README.md
 
 ## 🔗 Acesse o projeto
-> https://sheilasilva-data.github.io/alura_plus/
+> https://sheilasilva-data.github.io/Projeto_Alura-Plus/
 >
 >Para rodar localmente:
->1. Clone este repositório: `https://github.com/sheilasilva-data/alura_plus.git`
+>1. Clone este repositório: `https://github.com/sheilasilva-data/Projeto_Alura-Plus.git`
 >2. Abra o arquivo `index.html` no seu navegador de preferência.
 
 
